@@ -1,0 +1,48 @@
+body {
+    font-family: "Inknut Antiqua", serif;
+    
+    margin: 0px;
+    padding: 0px;
+    
+    background-color: #172121;
+}
+
+
+
+
+.heading_text {
+    width: 100%;
+    height: auto;
+
+    font-weight: 400;
+
+
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+
+    margin: 0px;
+    padding-top: 10%;
+
+    font-size: 45px;
+}
+
+#heading_vojtech {
+    margin-right: 3%;
+    margin-top: 0px;
+
+    background: -webkit-linear-gradient(45deg, #d1603d, #ddb967);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#heading_nerad {
+    margin-top: 0px;
+    margin-left: 3%;
+    background: -webkit-linear-gradient(45deg, #65afff, #d0e37f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+
