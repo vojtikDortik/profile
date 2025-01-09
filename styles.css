@@ -3,6 +3,8 @@ body {
     
     margin: 0px;
     padding: 0px;
+    width: 100vw;
+    min-height: 100vh;
     
     background-color: #172121;
 }
@@ -19,12 +21,13 @@ body {
 
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     /* align-items: center; */
 
     margin: 0px;
     padding-top: 10%;
 
-    font-size: 45px;
+    font-size: 40px;
 }
 
 #heading_vojtech {
